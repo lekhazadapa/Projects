@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="font_size">32sp</dimen>
+    <dimen name="platform_size">24sp</dimen>
+    <dimen name="small_margin">6sp</dimen>
+</resources>

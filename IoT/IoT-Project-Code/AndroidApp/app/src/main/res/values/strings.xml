@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidApp</string>
+    <string name="loading_text"><b>Looking for station</b></string>
+    <string name="platform_header"><b>Platform</b></string>
+</resources>
